@@ -13,6 +13,7 @@ DURATION -8 WEEKS(APRIL 20th to JUNE 20th 2025)
 MENTOR -NEELA SANTHOSH KUMAR
 
 
+
 🔍 Overview of Arithmetic Expression Evaluator in C++
 
 
@@ -181,6 +182,15 @@ This small yet powerful program is a gateway to understanding compiler design, d
  Parse arithmetic expressions
 
  Use stacks effectively
+
+
+
+
+ output
+
+
+
+ ![Image](https://github.com/user-attachments/assets/cbe866b2-7e40-4934-a803-06bfcaa1c2e6)
 
  Handle exceptions
 
