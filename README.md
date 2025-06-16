@@ -183,6 +183,13 @@ This small yet powerful program is a gateway to understanding compiler design, d
  Parse arithmetic expressions
 
  Use stacks effectively
+ 
+ Handle exceptions
+
+ Implement precedence rules
+
+ Design command-line calculators
+
 
 
 
@@ -193,9 +200,4 @@ This small yet powerful program is a gateway to understanding compiler design, d
 
  ![Image](https://github.com/user-attachments/assets/cbe866b2-7e40-4934-a803-06bfcaa1c2e6)
 
- Handle exceptions
-
- Implement precedence rules
-
- Design command-line calculators
-
+ 
